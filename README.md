@@ -1,5 +1,7 @@
 # MTF-xxx
-A Comprehensive Dataset for Mixed Text and Formula Recognition in Educational and Scientific Documents
+A Comprehensive Dataset for Mixed Text and Formula Recognition in Educational and Scientific Documents.
+
+We will release the dataset soon.
 
 Examples:
 
