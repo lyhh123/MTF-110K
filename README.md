@@ -4,6 +4,6 @@ A Comprehensive Dataset for Mixed Text and Formula Recognition in Educational an
 Examples:
 
 
-![图片 1](https://github.com/lyhh123/MTF-xxx/assets/48280924/5abf02c6-cdd8-42b7-be52-6c053b87ef91)
+![图片 1](https://github.com/lyhh123/MTF-xxx/assets/48280924/673269ac-2919-45cc-8d50-f48eeaab789e)
 
-![图片 2](https://github.com/lyhh123/MTF-xxx/assets/48280924/11d975f3-320a-412f-ba70-1d9d5e883047)
+![图片 2](https://github.com/lyhh123/MTF-xxx/assets/48280924/ffcc8da2-76c1-4645-90bb-9cd85f6f80c4)
