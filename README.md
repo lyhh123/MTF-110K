@@ -1,4 +1,4 @@
-# MTF-100K
+# MTF-110K
 A Comprehensive Dataset for Mixed Text and Formula Recognition in Educational and Scientific Documents.
 
 We will release the dataset soon.
