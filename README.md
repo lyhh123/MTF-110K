@@ -2,7 +2,7 @@
 A Comprehensive Dataset for Mixed Text and Formula Recognition in Educational and Scientific Documents.
 
 Tree structure of MTF-110K:
-
+```
   MTF-110K/
   |-- MTF-110k-demo
   |   |-- test
@@ -21,7 +21,7 @@ Tree structure of MTF-110K:
   |       |   |-- xxx.jpg
   |       `-- labels.txt
   `-- README.md
-
+```
 We will release the whole dataset soon.
 
 Examples:
