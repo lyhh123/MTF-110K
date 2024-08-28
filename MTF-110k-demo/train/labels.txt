@@ -1,0 +1,10 @@
+20318.jpg	1 , 直 线 $$ O M \perp O N $$ , 垂 足 为 0 , 三 角 板 的 直 角 顶 点 C 落 在 \angle M O N 的 内 部 , 三 角 板 的 另 两 条 直 角 边 分 别 与 O N 、 O M 交 于 点 D 和 点 B .
+70161.jpg	F o l l o w i n g [ 2 ] , w e \space c o n s i d e r \space a " g e n e r a l i z e d \space K a s n e r " m e t r i c $$ g _ { \mu \nu } d x ^ { \mu } d x ^ { \nu } = - N ^ { 2 } ( d x ^ { 0 } ) ^ { 2 } + $$
+61653.jpg	$$ \frac { d ^ { 2 } \phi } { d x ^ { 2 } } = - 2 \phi ( 1 - \phi ^ { 2 } ) $$ ( 1 0 ) $$ 1 - p \phi ^ { \mathrm { p - 1 } } + { p } ( p + 1 ) \phi ^ { p } = 0 $$ . ( 1 8 )
+13561.jpg	( 2 ) 如 果 $$ | a | = | b | $$ , 那 么 $$ a = b : $$
+13179.jpg	O n e \space d a y \space I \space a s k e d \space h e r $$ \underline { A } $$ s h e \space p r a c t i c e d \space s o \space m u c h . S h e \space s a i d , " I \space w a n t \space t o \space g o \space t o
+24747.jpg	腰 \triangle A M E , 且 $$ \angle M A E = 9 0 ^ \circ $$ , M E 与 A C 相 交 于 点 P , 判 断 线 段
+28800.jpg	1 0 . 已 知 点 A ( $$ a - 3 , a ^ { 2 } - 4 $$ ) 在 x 轴 上 , 则 a 的 值 为 ( )
+63064.jpg	$$ \le f t . D \left( \begin{array} { c } a \\ a ^ { \dagger } \end{array} \right. \right) D ^ { \dagger } = \left( \begin{array} { c } a \\ a ^ { \dagger } \end{array} \right) - \left( \begin{array} { c } \beta \\ \overline { \beta } \end{array} \right) $$ , ( A . 2 )
+23160.jpg	即 $$ \angle A P C = 6 0 ^ \circ $$ ( 符 合 定 弦 定 长 模 型
+71361.jpg	v a r i a t i o n \space o f L _ { 4 } c a n c e l s \space t h e \space t h i r d \space t e r m \space f r o m \delta L _ { 2 } i n \space E q . ( 1 5 ) , a n d \space b y \space a d d i n g \space a l l \space f o u r \space t e r m s \space t o g e t h e r $$ ( L = L _ { 1 } + L _ { 2 } + $$
