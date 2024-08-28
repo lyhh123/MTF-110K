@@ -3,24 +3,24 @@ A Comprehensive Dataset for Mixed Text and Formula Recognition in Educational an
 
 Tree structure of MTF-110K:
 
-MTF-110K/
-|-- MTF-110k-demo
-|   |-- test
-|   |   |-- images
-|   |   |   |-- xxx.jpg
-|   |   |   |-- xxx.jpg
-|   |   |   |-- ...
-|   |   |   |-- xxx.jpg
-|   |   |   `-- ...
-|   |   `-- labels.txt
-|   `-- train
-|       |-- images
-|       |   |-- xxx.jpg
-|       |   |-- xxx.jpg
-|       |   |-- ...
-|       |   |-- xxx.jpg
-|       `-- labels.txt
-`-- README.md
+  MTF-110K/
+  |-- MTF-110k-demo
+  |   |-- test
+  |   |   |-- images
+  |   |   |   |-- xxx.jpg
+  |   |   |   |-- xxx.jpg
+  |   |   |   |-- ...
+  |   |   |   |-- xxx.jpg
+  |   |   |   `-- ...
+  |   |   `-- labels.txt
+  |   `-- train
+  |       |-- images
+  |       |   |-- xxx.jpg
+  |       |   |-- xxx.jpg
+  |       |   |-- ...
+  |       |   |-- xxx.jpg
+  |       `-- labels.txt
+  `-- README.md
 
 We will release the whole dataset soon.
 
